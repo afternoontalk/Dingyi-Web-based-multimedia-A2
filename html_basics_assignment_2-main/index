@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 2 - Internet Explorer Exploded =  Semantic Sentiments and Aspirations (In Class Assignment)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mukta&family=Nabla&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nabla&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Moon+Dance&family=Mukta&family=Nabla&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Moon+Dance&family=Mukta&family=Nabla&family=Nunito+Sans:opsz,wght@6..12,200;6..12,400&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&family=Moon+Dance&family=Mukta&family=Nabla&family=Nunito+Sans:opsz,wght@6..12,200;6..12,400&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="assets/images/light.jpg" alt="Orange candel light in front of sunset window">
+    </header>
+        <main>
+            
+        
+                <div class= "row">    
+                    <h1>
+                    Memories and Future Vision
+                    <br>
+                    Loading...
+                    </h1>
+                </div>
+   
+                <div class= "row">    
+            
+            <br>
+            <form action="https://xudingyi.com/submit-answer"></form>
+            <p><fieldset>
+                <p><legend>
+                    What is your favourite way of telling a story? 
+                </legend>
+                <input id="talking" type="checkbox" name="wayoftelling" value="talking" checked> <label for="loving"> Through talking</label>
+                <input id="writting" type="checkbox" name="wayoftelling" value="writting"> <label for="lazy">Writting</label>
+                <input id="drawing" type="checkbox" name="wayoftelling" value="drawing"> <label for="energetic">Visual</label>
+                <input id="drawing" type="checkbox" name="wayoftelling" value="drawing">
+                <label for="energetic">&@?!*
+              </fieldset> </p>
+              
+
+              <fieldset>
+                <p><legend>
+                    What is your favourite way of listening a story? 
+                </legend>
+                <input id="talking" type="checkbox" name="wayoftelling" value="talking" checked> <label for="loving"> Through listening</label>
+                <input id="writting" type="checkbox" name="wayoftelling" value="writting"> <label for="lazy">Reading</label>
+                <input id="drawing" type="checkbox" name="wayoftelling" value="drawing"> <label for="energetic">Watching</label>
+                <input id="drawing" type="checkbox" name="wayoftelling" value="drawing">
+                <label for="energetic">&@?!*</label>
+              </fieldset> </p>
+              <button type="submit">Submit</button>
+            </form>
+    
+                </div>
+
+                <div class="row2">
+                    <br><br><br><br>
+                    <h6>-loading-</h6>
+                    <br>
+                    <h3>
+                        Chapter 1: "You are grown up, you are on your own."</h3>
+                        <img src="assets/images/family.jpg" alt="family photo with bad framing and tilted angle of a women and a men in late 20s sitting on couch looking and smiling to the camera">
+                    <h4>Age: </h4>
+                    <h5>3</h5>
+                    <h4>Future vision:</h4><h5> go to playground</h5>
+                    <br>
+                    <h6>--loading--</h6>
+                </div>
+                    
+                <div class= "row2">    
+                    <h3> Chapter 2: "The story of our life is not our life, it is our story."</h3>
+                    <img src="assets/images/room.jpg" alt="girl skateboarding">
+                    <h4>Age: </h4>
+                    <h5>7</h5>
+                    <h4>Future vision:</h4><h5> paint room with color</h5>
+                    <br>
+                    <h6>----loading----</h6>    
+                </div> 
+
+                <div class= "row2">    
+                    <h3> Chapter 3: "Doing what I like well is my achievement, doing what I don't like well is my competence"</h3>
+                    <img src="assets/images/travel.jpg" alt="cloudy green farmland">
+                    <h4>Age: </h4>
+                    <h5>20</h5>
+                    <h4>Future vision:</h4><h5> escape and travel</h5>
+                    <br>
+                    <h6>------loading to future------</h6>
+                    <h6>--------------------------</h6>
+                    <h6>--------------------</h6>
+                    <h6>------------</h6>
+                    <h6>-----</h6>
+                </div>
+
+                <div class= "row2">
+                    <h4>
+                        Two years from now, after I graduated from Duke, I begin my next journey to a new country I've never been. Like Türkiye, France, Philipine, Netherlands. I keep learning and creating along the journey.<br><br>
+                    <img src="assets/images/subway.png" alt="close blur side view of moving subway in fast motion">
+                        <br>
+                        If I imagine something that is not dependent on the past information, I will than move away from the Earth with nothing but my memories. All my memories are digitalized and stored.
+                    </h4>
+                        <br><br>
+                    <h5>But in what form will our story behold in the future?</h5>
+                    <img src="assets/images/stars.jpg" alt="white startlight from dark">
+                        <br>
+                    <h4> I believe our identity, knowledge, ideas and believes make us who we are. The past we cherished, or hated, lead us way to the future. Then we craft the future together.</h4>
+                        <br>
+                    <h5>If I believe the narratives we share influence and give shape to the future, what will I do when there is nothing left but memories?</h5>   
+                </div>
+
+                    <div class="row2">
+                        <h3>Top memories on my future list:
+                            
+                        </h3>
+                        <h4><ul>
+                            <li>I will live in a new land no man has ever gone before.</li>
+                            <li>I will ride a horse and see sun raising everyday.</li>
+                            <li>I will have my own kids, not necessarily related to me.</li>
+                            <li>I will meet new people everyday and talk with them.</li>
+                            <li>I will build a coffee shop and taste cocktail at night.</li>
+                            <li>I will wake up to the stray cats I adopted. 
+                            <li>I will film my existence and encounters.</li>
+                            <li>I will have friends visit and family gathered, not necessarily physical.</li>
+                            <li>Finally I will see the world changing and becoming part of the history.</li>
+                        </ul></h4>
+                    </div>
+
+                    <br><br><br>
+                    
+                    <img src="assets/images/selfie.webp" alt="selfie of woman holding camera">
+
+                <div class="row2">
+                    <h7>"何妨吟啸且徐行,一蓑烟雨任平生"</h7>
+                    <h3>"Listen not to the rain beating against the trees.
+                    <br>Why don't you slowly walk and chant with ease?
+                    <br>Better than saddled horse I like sandals and cane,
+                    <br>Oh, I would fain,
+                    <br>In a straw cloak, spend my life in mist and rain.
+                    <br>Drunk, I am sobered by vernal wind shrill And rather chill."
+                </div>
+        </main>
+            <footer>
+                <div class="row3">
+                    <br>
+                <p>
+                  Dingyi Xu 2023 
+                  <br>
+                  Web-Based Multimedia Communications <em>Semantic Sentiments and Aspirations</em> Fall 2023 in-class assignment       
+                </p> 
+                </div>
+            </footer>
+</body>
+</html>
