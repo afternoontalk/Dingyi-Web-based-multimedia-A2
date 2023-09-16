@@ -1,4 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Foldit:wght@100;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta&family=Nabla&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Mukta&family=Nabla&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Mukta&family=Nabla&family=Nunito+Sans:opsz,wght@6..12,200;6..12,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&family=Moon+Dance&family=Mukta&family=Nabla&family=Nunito+Sans:opsz,wght@6..12,200;6..12,400&display=swap');
+
 
 * {
 	box-sizing: border-box;
@@ -21,7 +29,7 @@ main {
 .row {
     padding: 1rem;
     max-width: 400px;
-    max-height: 500px;
+    max-height: 800px;
     overflow: hidden;
 
 }
@@ -29,7 +37,7 @@ main {
 .row2 {
     padding: 1rem;
     max-width: 800px;
-    max-height: 500px;
+
     overflow: hidden;
     margin: 10px;
 }
@@ -44,7 +52,7 @@ main {
 
 
 p {
-    color: #3a3a3b;
+    color: #ffffff;
     font: 1em sans-serif;
 }
 
@@ -53,31 +61,76 @@ li{
 }
 
 h1 {
-    color: #b01106;
+    color: #14c55e;
     text-shadow: #420916;
     font-family: 'Nabla',cursive; ;
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 800;
-    line-height: 4rem;
-    text-shadow: 1px 1px #230202;
+    line-height: 7rem;
 
 }
 
 h2 {
-    font-family: 'Foldit',cursive;
-    color: #ff1493;
+    font-family: 'Mukta', sans-serif;
+    color: #ffffff;
     font-weight:200;
-    font-size: 3.5rem;
-    line-height: 4rem;
-    text-shadow: 1px 1px #420916;
+    font-size: 3rem;
+    line-height: 3rem;
+    text-shadow: 1px 1px #ff9706;
     
 }
 
 h3 {
-    font-family: 'Foldit',cursive;
-    font-size: 2rem;
-    color: #838385;
+    font-family: 'Moon Dance', cursive;
+    font-size: 3rem;
+   
+    color: #ffffff;
     text-shadow: 1px 1px #420916;
-    font-weight: 400;
-	text-align: center;
+    font-weight: 200;
+    text-align: center;
 }
+
+h4 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1rem;
+    color: #ffffff;
+    text-shadow: 1px 1px #420916;
+    line-height: 2rem;
+    font-weight: 200;
+
+
+}
+
+h5 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.5rem;
+    color: #ffffff;
+    text-shadow: 1px 1px #420916;
+    line-height: 2rem;
+    font-weight: 200;
+    text-align: right;
+
+}
+h6 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.5rem;
+    color: #ffffff;
+    text-shadow: 1px 1px #420916;
+    line-height: 2rem;
+    font-weight: 200;
+    text-align: center;
+
+}
+h7 {
+    font-family: 'Liu Jian Mao Cao', cursive;;
+    font-size: 3rem;
+    color: #ffffff;
+    text-shadow: 1px 1px #420916;
+    line-height: 5rem;
+    font-weight: 200;
+    text-align: center;
+
+}
+body {
+    background-color: rgb(0, 0, 0);
+  }
