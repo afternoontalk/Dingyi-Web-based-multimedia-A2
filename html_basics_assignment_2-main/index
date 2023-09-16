@@ -24,7 +24,7 @@
 </head>
 <body>
     <header>
-        <img src="assets/images/light.jpg" alt="Orange candel light in front of sunset window">
+        <img src="assets/images/light.jpg" alt="Orange candlelight in front of sunset window">
     </header>
         <main>
             
@@ -43,10 +43,10 @@
             <form action="https://xudingyi.com/submit-answer"></form>
             <p><fieldset>
                 <p><legend>
-                    What is your favourite way of telling a story? 
+                    What is your favorite way of telling a story? 
                 </legend>
                 <input id="talking" type="checkbox" name="wayoftelling" value="talking" checked> <label for="loving"> Through talking</label>
-                <input id="writting" type="checkbox" name="wayoftelling" value="writting"> <label for="lazy">Writting</label>
+                <input id="writing" type="checkbox" name="wayoftelling" value="writing"> <label for="lazy">Writting</label>
                 <input id="drawing" type="checkbox" name="wayoftelling" value="drawing"> <label for="energetic">Visual</label>
                 <input id="drawing" type="checkbox" name="wayoftelling" value="drawing">
                 <label for="energetic">&@?!*
@@ -55,10 +55,10 @@
 
               <fieldset>
                 <p><legend>
-                    What is your favourite way of listening a story? 
+                    What is your favorite way of listening to a story? 
                 </legend>
                 <input id="talking" type="checkbox" name="wayoftelling" value="talking" checked> <label for="loving"> Through listening</label>
-                <input id="writting" type="checkbox" name="wayoftelling" value="writting"> <label for="lazy">Reading</label>
+                <input id="writing" type="checkbox" name="wayoftelling" value="writing"> <label for="lazy">Reading</label>
                 <input id="drawing" type="checkbox" name="wayoftelling" value="drawing"> <label for="energetic">Watching</label>
                 <input id="drawing" type="checkbox" name="wayoftelling" value="drawing">
                 <label for="energetic">&@?!*</label>
@@ -70,16 +70,15 @@
 
                 <div class="row2">
                     <br><br><br><br>
-                    <h6>-loading-</h6>
-                    <br>
+                  
                     <h3>
                         Chapter 1: "You are grown up, you are on your own."</h3>
-                        <img src="assets/images/family.jpg" alt="family photo with bad framing and tilted angle of a women and a men in late 20s sitting on couch looking and smiling to the camera">
+                        <img src="assets/images/family.jpg" alt=" family photo with bad framing and tilted angle of a woman and a man in late 20s sitting on a couch looking and smiling to the camera">
                     <h4>Age: </h4>
                     <h5>3</h5>
                     <h4>Future vision:</h4><h5> go to playground</h5>
                     <br>
-                    <h6>--loading--</h6>
+                    <h8>--loading--</h8>
                 </div>
                     
                 <div class= "row2">    
@@ -89,69 +88,69 @@
                     <h5>12</h5>
                     <h4>Future vision:</h4><h5> paint room with color</h5>
                     <br>
-                    <h6>----loading----</h6>    
+                    <h8>----loading----</h8>    
                 </div> 
 
                 <div class= "row2">    
                     <h3> Chapter 3: "Doing what I like well is my achievement, doing what I don't like well is my competence"</h3>
-                    <img src="assets/images/travel.jpg" alt="cloudy green farmland">
+                    <img src="assets/images/sky.jpg" alt="blue sky with thin cloud">
                     <h4>Age: </h4>
                     <h5>20</h5>
                     <h4>Future vision:</h4><h5> escape and travel</h5>
                     <br>
-                    <h6>------loading to future------</h6>
-                    <h6>--------------------------</h6>
-                    <h6>--------------------</h6>
-                    <h6>------------</h6>
-                    <h6>-----</h6>
+                    <h8>------loading to future------</h8><br>
+                    <h8>--------------------------</h8><br>
+                    <h8>--------------------</h8><br>
+                    <h8>------------</h8><br>
+                    <h8>-----</h8><br>
                 </div>
 
                 <div class= "row2">
                     <h4>
-                        Two years from now, after I graduated from Duke, I begin my next journey to a new country I've never been. Like Türkiye, France, Philipine, Netherlands. I keep learning and creating along the journey.<br><br>
+                        Two years from now, after I graduated from Duke, I begin my next journey to a new country I've never been to. Like Türkiye, France, Philipine, Netherlands. I keep learning and creating along the journey.<br><br>
                     <img src="assets/images/subway.png" alt="close blur side view of moving subway in fast motion">
                         <br>
-                        If I imagine something that is not dependent on the past information, I will than move away from the Earth with nothing but my memories. All my memories are digitalized and stored.
+                        If I imagine something that is not dependent on past information, I will move away from the Earth with nothing but my memories. All my memories are digitalized and stored.
                     </h4>
                         <br><br>
                     <h5>But in what form will our story behold in the future?</h5>
-                    <img src="assets/images/stars.jpg" alt="white startlight from dark">
+                    <img src="assets/images/stars.jpg" alt="white starlight from dark">
                         <br>
-                    <h4> I believe our identity, knowledge, ideas and believes make us who we are. The past we cherished, or hated, lead us way to the future. Then we craft the future together.</h4>
+                    <h4> I believe our identity, knowledge, ideas, and beliefs make us who we are. The past we cherish or hate leads us to the future. Then we craft the future together.</h4>
                         <br>
                     <h5>If I believe the narratives we share influence and give shape to the future, what will I do when there is nothing left but memories?</h5>   
                 </div>
 
                     <div class="row2">
-                        <h3>Top memories on my future list:
-                            
-                        </h3>
+                        <h3>Top memories on my future list:</h3>
+                      
                         <h4><ul>
-                            <li>I will live in a new land no man has ever gone before.</li>
-                            <li>I will ride a horse and see sun raising everyday.</li>
+                            <br>
+                            <li>I will live in a new land no man has ever gone.</li>
+                            <li>I will ride a horse and see the sun rising every day.</li>
                             <li>I will have my own kids, not necessarily related to me.</li>
-                            <li>I will meet new people everyday and talk with them.</li>
-                            <li>I will build a coffee shop and taste cocktail at night.</li>
+                            <li>I will meet new people every day and talk with them.</li>
+                            <li>I will build a coffee shop and taste cocktails at night.</li>
                             <li>I will wake up to the stray cats I adopted. 
                             <li>I will film my existence and encounters.</li>
-                            <li>I will have friends visit and family gathered, not necessarily physical.</li>
-                            <li>Finally I will see the world changing and becoming part of the history.</li>
+                            <li>I will have friends visit and family gathered, not necessarily physically.</li>
+                            <li>Finally I will see the world changing and becoming part of history.     </li><br>
                         </ul></h4>
                     </div>
 
                     <br><br><br>
-                    
+
                     <img src="assets/images/selfie.webp" alt="selfie of woman holding camera">
 
                 <div class="row2">
                     <h7>"何妨吟啸且徐行,一蓑烟雨任平生"</h7>
-                    <h3>"Listen not to the rain beating against the trees.
+                    <br><br>><h7>"Listen not to the rain beating against the trees.
                     <br>Why don't you slowly walk and chant with ease?
                     <br>Better than saddled horse I like sandals and cane,
                     <br>Oh, I would fain,
                     <br>In a straw cloak, spend my life in mist and rain.
                     <br>Drunk, I am sobered by vernal wind shrill And rather chill."
-                    <br><h5> ——Su Shi, English translation by Xu Yuanchong</h5>
+                    <br><br><h5> ——Su Shi, English translation by Xu Yuanchong</h7>
                 </div>
         </main>
             <footer>
