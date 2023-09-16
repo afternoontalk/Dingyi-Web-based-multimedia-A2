@@ -56,13 +56,17 @@ p {
     font: 1em sans-serif;
 }
 
+ul{
+    list-style: none;
+    background-color:rgb(255, 255, 255);
+}
+
 li{
     line-height: 1.2rem;
 }
 
 h1 {
-    color: #14c55e;
-    text-shadow: #420916;
+
     font-family: 'Nabla',cursive; ;
     font-size: 3rem;
     font-weight: 800;
@@ -83,8 +87,8 @@ h2 {
 h3 {
     font-family: 'Moon Dance', cursive;
     font-size: 3rem;
-   
-    color: #ffffff;
+    background-color: rgb(255, 255, 255);
+    color: #020000;
     text-shadow: 1px 1px #420916;
     font-weight: 200;
     text-align: center;
@@ -94,7 +98,7 @@ h4 {
     font-family: 'Nunito Sans', sans-serif;
     font-size: 1rem;
     color: #ffffff;
-    text-shadow: 1px 1px #420916;
+    text-shadow: -10px -10px #000000;
     line-height: 2rem;
     font-weight: 200;
 
@@ -123,11 +127,20 @@ h6 {
 }
 h7 {
     font-family: 'Liu Jian Mao Cao', cursive;;
-    font-size: 3rem;
+    font-size: 2rem;
     color: #ffffff;
     text-shadow: 1px 1px #420916;
-    line-height: 5rem;
+    line-height: 3rem;
     font-weight: 200;
+    text-align: center;
+
+}
+
+h8 {
+    font-family: 'Nabla',cursive; ;
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 2rem;
     text-align: center;
 
 }
